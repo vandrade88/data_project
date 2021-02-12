@@ -1,6 +1,4 @@
-# Data_project - Project 1
-
-# Technical Requirements
+# Technical Requirements - Project 1
 
 The technical requirements for Project 1 are as follows.
 
