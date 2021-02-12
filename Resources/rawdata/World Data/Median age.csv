@@ -13,7 +13,6 @@ Aruba,39.3,ABW
 Australia,38.7,AUS
 Austria,44,AUT
 Azerbaijan,32.3,AZE
-The Bahamas,32,BHS
 Bahrain,32.3,BHR
 Bangladesh,26.7,BGD
 Barbados,38.6,BRB
@@ -32,10 +31,10 @@ Brunei,30.2,BRN
 Bulgaria,42.7,BGR
 Burkina Faso,17.3,BFA
 Burundi,17,BDI
-Cape Verde,25.4,CPV
 Cambodia,25.3,KHM
 Cameroon,18.5,CMR
 Canada,42.2,CAN
+Cape Verde,25.4,CPV
 Cayman Islands,40,CYM
 Central African Republic,19.7,CAF
 Chad,17.8,TCD
@@ -43,20 +42,19 @@ Chile,34.4,CHL
 China,37.4,CHN
 Colombia,30,COL
 Comoros,19.9,COM
-Democratic Republic of the Congo,18.6,COD
-Republic of the Congo,19.7,COG
 Cook Islands,36.5,COK
 Costa Rica,31.3,CRI
-Ivory Coast,20.9,CIV
 Croatia,43,HRV
 Cuba,41.5,CUB
 Curacao,36.1,CUW
 Cyprus,36.8,CYP
 Czech Republic,42.1,CZE
+Democratic Republic of the Congo,18.6,COD
 Denmark,42.2,DNK
 Djibouti,23.9,DJI
 Dominica,33.5,DMA
 Dominican Republic,28.1,DOM
+East Timor,18.9,TLS
 Ecuador,27.7,ECU
 Egypt,23.9,EGY
 El Salvador,27.1,SLV
@@ -71,7 +69,6 @@ Finland,42.5,FIN
 France,41.4,FRA
 French Polynesia,31.9,PYF
 Gabon,18.6,GAB
-The Gambia,21,GMB
 Georgia,38.1,GEO
 Germany,47.1,DEU
 Ghana,21.1,GHA
@@ -98,6 +95,7 @@ Ireland,36.8,IRL
 Isle of Man,44.2,IMN
 Israel,29.9,ISR
 Italy,45.5,ITA
+Ivory Coast,20.9,CIV
 Jamaica,26,JAM
 Japan,47.3,JPN
 Jersey,38,JEY
@@ -105,8 +103,6 @@ Jordan,22.5,JOR
 Kazakhstan,30.6,KAZ
 Kenya,19.7,KEN
 Kiribati,24.6,KIR
-North Korea,34,PRK
-South Korea,41.8,KOR
 Kuwait,29.3,KWT
 Kyrgyzstan,26.5,KGZ
 Laos,23,LAO
@@ -119,7 +115,6 @@ Liechtenstein,43.2,LIE
 Lithuania,43.7,LTU
 Luxembourg,39.3,LUX
 Macau,39.3,MAC
-North Macedonia,37.9,MKD
 Madagascar,19.7,MDG
 Malawi,16.5,MWI
 Malaysia,28.5,MYS
@@ -145,8 +140,10 @@ Netherlands,42.6,NLD
 New Caledonia,32,NCL
 New Zealand,37.9,NZL
 Nicaragua,25.7,NIC
-Nigeria,18.4,NGA
 Niger,15.4,NER
+Nigeria,18.4,NGA
+North Korea,34,PRK
+North Macedonia,37.9,MKD
 Northern Mariana Islands,33.6,MNP
 Norway,39.2,NOR
 Oman,25.6,OMN
@@ -161,6 +158,7 @@ Poland,40.7,POL
 Portugal,42.2,PRT
 Puerto Rico,41.5,PRI
 Qatar,33.2,QAT
+Republic of the Congo,19.7,COG
 Romania,41.1,ROU
 Russia,39.6,RUS
 Rwanda,19,RWA
@@ -185,6 +183,7 @@ Slovenia,44.5,SVN
 Solomon Islands,22.5,SLB
 Somalia,18.1,SOM
 South Africa,27.1,ZAF
+South Korea,41.8,KOR
 South Sudan,17.3,SSD
 Spain,42.7,ESP
 Sri Lanka,32.8,LKA
@@ -197,7 +196,8 @@ Taiwan,40.7,TWN
 Tajikistan,24.5,TJK
 Tanzania,17.7,TZA
 Thailand,37.7,THA
-East Timor,18.9,TLS
+The Bahamas,32,BHS
+The Gambia,21,GMB
 Togo,19.8,TGO
 Tonga,23,TON
 Trinidad and Tobago,36,TTO
