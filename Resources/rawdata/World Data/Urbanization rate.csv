@@ -1,0 +1,213 @@
+﻿Country,Urbanization rate,ISO-code
+Afghanistan,25.754,AFG
+Albania,61.229,ALB
+Algeria,73.189,DZA
+American Samoa,87.147,ASM
+Andorra,87.984,AND
+Angola,66.177,AGO
+Antigua and Barbuda,24.506,ATG
+Argentina,91.991,ARG
+Armenia,63.219,ARM
+Aruba,43.546,ABW
+Australia,86.124,AUS
+Austria,58.515,AUT
+Azerbaijan,56.031,AZE
+Bahrain,89.394,BHR
+Bangladesh,37.405,BGD
+Barbados,31.158,BRB
+Belarus,79.044,BLR
+Belgium,98.041,BEL
+Belize,45.866,BLZ
+Benin,47.861,BEN
+Bermuda,100,BMU
+Bhutan,41.612,BTN
+Bolivia,69.773,BOL
+Bosnia and Herzegovina,48.626,BIH
+Botswana,70.172,BWA
+Brazil,86.824,BRA
+Brunei,77.942,BRN
+Bulgaria,75.347,BGR
+Burkina Faso,29.98,BFA
+Burundi,13.366,BDI
+Cambodia,23.805,KHM
+Cameroon,56.968,CMR
+Canada,81.482,CAN
+Cape Verde,66.195,CPV
+Cayman Islands,100,CYM
+Central African Republic,41.77,CAF
+Chad,23.279,TCD
+Chile,87.643,CHL
+China,60.308,CHN
+Colombia,81.104,COL
+Comoros,29.164,COM
+Costa Rica,80.076,CRI
+Croatia,57.242,HRV
+Cuba,77.109,CUB
+Curacao,89.098,CUW
+Cyprus,66.805,CYP
+Czech Republic,73.921,CZE
+Democratic Republic of the Congo,45.046,COD
+Denmark,87.994,DNK
+Djibouti,77.915,DJI
+Dominica,70.786,DMA
+Dominican Republic,81.828,DOM
+East Timor,30.947,TLS
+Ecuador,63.986,ECU
+Egypt,42.73,EGY
+El Salvador,72.746,SLV
+Equatorial Guinea,72.627,GNQ
+Eritrea,35.771,ERI
+Estonia,69.051,EST
+Eswatini,23.981,SWZ
+Ethiopia,21.225,ETH
+Faroe Islands,42.225,FRO
+Fiji,56.75,FJI
+Finland,85.446,FIN
+France,80.709,FRA
+French Polynesia,61.897,PYF
+Gabon,89.741,GAB
+Georgia,59.039,GEO
+Germany,77.376,DEU
+Ghana,56.707,GHA
+Gibraltar,100,GIB
+Guinea,36.5,GIN
+Greece,79.388,GRC
+Greenland,87.052,GRL
+Grenada,36.396,GRD
+Guam,94.859,GUM
+Guatemala,51.439,GTM
+Guyana,26.689,GUY
+Haiti,56.192,HTI
+Honduras,57.73,HND
+Hong Kong,100,HKG
+Hungary,71.644,HUN
+Iceland,93.855,ISL
+India,34.472,IND
+Indonesia,55.985,IDN
+Iran,75.391,IRN
+Iraq,70.678,IRQ
+Ireland,63.405,IRL
+Isle of Man,52.735,IMN
+Israel,92.501,ISR
+Italy,70.736,ITA
+Ivory Coast,51.239,CIV
+Jamaica,55.985,JAM
+Japan,91.698,JPN
+Jordan,91.203,JOR
+Kazakhstan,57.54,KAZ
+Kenya,27.507,KEN
+Kiribati,54.835,KIR
+Kuwait,100,KWT
+Kyrgyzstan,36.591,KGZ
+Laos,35.645,LAO
+Latvia,68.222,LVA
+Lebanon,88.758,LBN
+Lesotho,28.585,LSO
+Liberia,51.615,LBR
+Libya,80.393,LBY
+Liechtenstein,14.371,LIE
+Lithuania,67.855,LTU
+Luxembourg,91.223,LUX
+Macau,100,MAC
+Madagascar,37.861,MDG
+Malawi,17.174,MWI
+Malaysia,76.607,MYS
+Maldives,40.238,MDV
+Mali,43.136,MLI
+Malta,94.678,MLT
+Marshall Islands,77.417,MHL
+Mauritania,54.507,MRT
+Mauritius,40.766,MUS
+Mexico,80.444,MEX
+Micronesia,22.812,FSM
+Moldova,42.726,MDA
+Monaco,100,MCO
+Mongolia,68.543,MNG
+Montenegro,67.15,MNE
+Morocco,62.994,MAR
+Mozambique,36.528,MOZ
+Myanmar,30.852,MMR
+Namibia,51.042,NAM
+Nauru,100,NRU
+Nepal,20.153,NPL
+Netherlands,91.876,NLD
+New Caledonia,71.104,NCL
+New Zealand,86.615,NZL
+Nicaragua,58.76,NIC
+Niger,16.517,NER
+Nigeria,51.157,NGA
+North Korea,62.134,PRK
+North Macedonia,58.208,MKD
+Northern Mariana Islands,91.708,MNP
+Norway,82.616,NOR
+Oman,85.443,OMN
+Pakistan,36.907,PAK
+Palau,80.47,PLW
+Palestine,76.44,PSE
+Panama,68.059,PAN
+Papua New Guinea,13.25,PNG
+Paraguay,61.879,PRY
+Peru,78.099,PER
+Philippines,47.149,PHL
+Poland,60.037,POL
+Portugal,65.764,PRT
+Puerto Rico,93.576,PRI
+Qatar,99.188,QAT
+Republic of the Congo,67.373,COG
+Romania,54.084,ROU
+Russia,74.587,RUS
+Rwanda,17.313,RWA
+Saint Kitts and Nevis,30.799,KNA
+Saint Lucia,18.754,LCA
+Saint Vincent and the Grenadines,52.614,VCT
+Samoa,18.056,WSM
+San Marino,97.368,SMR
+Sao Tome and Principe,73.598,STP
+Saudi Arabia,84.065,SAU
+Senegal,47.653,SEN
+Serbia,56.26,SRB
+Seychelles,57.119,SYC
+Sierra Leone,42.484,SLE
+Singapore,100,SGP
+Sint Maarten (Dutch part),100,SXM
+Slovakia,53.729,SVK
+Slovenia,54.822,SVN
+Solomon Islands,24.21,SLB
+Somalia,45.554,SOM
+South Africa,66.856,ZAF
+South Korea,81.43,KOR
+South Sudan,19.899,SSD
+Spain,80.565,ESP
+Sri Lanka,18.585,LKA
+Sudan,34.936,SDN
+Suriname,66.095,SUR
+Sweden,87.708,SWE
+Switzerland,73.849,CHE
+Syria,54.821,SYR
+Tajikistan,27.309,TJK
+Tanzania,34.5,TZA
+Thailand,50.692,THA
+The Bahamas,83.132,BHS
+The Gambia,61.931,GMB
+Togo,42.248,TGO
+Tonga,23.107,TON
+Trinidad and Tobago,53.187,TTO
+Tunisia,69.254,TUN
+Turkey,75.63,TUR
+Turkmenistan,52.048,TKM
+Turks and Caicos Islands,93.36,TCA
+Tuvalu,63.215,TUV
+Uganda,24.361,UGA
+Ukraine,69.473,UKR
+United Arab Emirates,86.789,ARE
+United Kingdom,83.652,GBR
+United States,82.459,USA
+Uruguay,95.426,URY
+Uzbekistan,50.433,UZB
+Vanuatu,25.394,VUT
+Venezuela,88.24,VEN
+Vietnam,36.628,VNM
+Virgin Islands (U.S.),95.832,VIR
+Yemen,37.273,YEM
+Zambia,44.072,ZMB
+Zimbabwe,32.21,ZWE
